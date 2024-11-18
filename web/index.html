@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Maps</title>
+    <style>
+        /* Add some basic styling directly here or link an external CSS file */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            text-align: center;
+            background-color: #f4f4f9;
+        }
+        h1 {
+            color: #333;
+        }
+        .map-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .map {
+            border: 2px solid #ddd;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s;
+        }
+        .map:hover {
+            transform: scale(1.05);
+        }
+        img {
+            width: 400px;
+            height: 300px;
+        }
+        a {
+            text-decoration: none;
+            color: #007BFF;
+        }
+    </style>
+</head>
+<body>
+<h1>Weather Maps</h1>
+<p>Below are the live weather maps visualized directly from OpenWeatherMap:</p>
+<div class="map-container">
+    <div class="map">
+        <h3>Temperature Map</h3>
+        <a href="https://tile.openweathermap.org/map/temp_new/10/1/1.png?appid=YOUR_API_KEY" target="_blank">
+            <img src="https://tile.openweathermap.org/map/temp_new/10/1/1.png?appid=YOUR_API_KEY" alt="Temperature Map">
+        </a>
+    </div>
+    <div class="map">
+        <h3>Wind Map</h3>
+        <a href="https://tile.openweathermap.org/map/wind_new/10/1/1.png?appid=YOUR_API_KEY" target="_blank">
+            <img src="https://tile.openweathermap.org/map/wind_new/10/1/1.png?appid=YOUR_API_KEY" alt="Wind Map">
+        </a>
+    </div>
+    <div class="map">
+        <h3>Precipitation Map</h3>
+        <a href="https://tile.openweathermap.org/map/precipitation_new/10/1/1.png?appid=YOUR_API_KEY" target="_blank">
+            <img src="https://tile.openweathermap.org/map/precipitation_new/10/1/1.png?appid=YOUR_API_KEY" alt="Precipitation Map">
+        </a>
+    </div>
+</div>
+</body>
+</html>
