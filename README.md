@@ -147,7 +147,7 @@ Contributions are welcome! Follow the steps below to contribute:
 
 ## 📜 License
 
-This project is licensed under the **Modified MIT License**. For details, please refer to the [LICENSE](https://github.com/Purohit1999/GlobalWeatherApp/blob/main/src/LICENSE) file in this repository.
+This project is licensed under the **Modified MIT License**. For details, please refer to the [LICENSE](https://github.com/Purohit1999/GlobalWeatherApp/blob/main/LICENSE) file in this repository.
 
 
 Copyright (c) 2024 [Param Purohit]
