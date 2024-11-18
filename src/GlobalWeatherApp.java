@@ -9,9 +9,8 @@ public class GlobalWeatherApp {
 
     public static void main(String[] args) {
         // Replace with your actual OpenWeatherMap API key
-        String apiKey = "37d396ff0ff99606de243b867ec28a6a";
+        String apiKey = "YOUR_API_KEY";
 
-        // Array of major cities worldwide with corrected names and country codes
         String[] cities = {
                 "Mumbai,IN", "Delhi,IN", "Bengaluru,IN", "Kolkata,IN", "Chennai,IN",
                 "Hyderabad,IN", "Ahmedabad,IN", "Pune,IN",
