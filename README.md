@@ -160,6 +160,20 @@ in the Software with the following restrictions:
    credit to the original author, Param Purohit, by including this notice in the
    source code and documentation.
 
+2. Redistribution of the Software, in its original or modified form, must
+include this license in full, without modification.
+
+3. Commercial use of the Software is permitted, provided that the original
+author is credited in any public-facing documentation or applications.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 ---
 
 ## 👤 Author
